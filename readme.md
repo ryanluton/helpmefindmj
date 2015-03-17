@@ -24,7 +24,7 @@ $ heroku open
 
 Alternatively, you can deploy your own copy with one click using this button:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com//slack-helpmefindmj)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ryanluton/helpmefindmj)
 
 See the [Heroku documentation](https://devcenter.heroku.com/articles/config-vars) for more info about changing the configuration variables after deployment.
 
