@@ -1,8 +1,8 @@
 {
   "name": "slack-helpmefindmj",
   "description": "HELP ME FIND HIM",
-  "repository": "https://github.com//slack-helpmefindmj",
-  "website": "https://github.com//slack-helpmefindmj",
+  "repository": "https://github.com/ryanluton/helpmefindmj",
+  "website": "https://github.com/ryanluton/helpmefindmj",
   "keywords": ["slack", "command", "bot", "chat"],
   "env": {
     "SLACK_HOOK_URL": {
