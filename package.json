@@ -1,0 +1,29 @@
+{
+  "name": "slack-helpmefindmj",
+  "version": "0.1.0",
+  "description": "HELP ME FIND HIM",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com//slack-helpmefindmj"
+  },
+  "author": "Ryan Luton <ryan@lutonmedia.com> (https://github.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com//slack-helpmefindmj/issues"
+  },
+  "homepage": "https://github.com//slack-helpmefindmj",
+  "dependencies": {
+    "querystring": "0.2.0",
+    "slack-notify": "0.1.4"
+  }
+}
